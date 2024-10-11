@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic developer from the Netherlands<br>🔭 I’m currently working on Schoolprojects and MERN stack websites<br>🌱 I’m currently learning DevOps, Java (Quarkus) and PostgreSQL. Maybe in the future WEB3<br>⚡ Fun fact I only started programming in 2022
+Enthusiastic developer from the Netherlands<br>🔭 I’m currently working on a new company SevenatWork automations, Schoolprojects and MERN stack websites<br>🌱 I’m currently learning DevOps, Java (Quarkus) and PostgreSQL. Maybe in the future WEB3<br>⚡ Fun fact I only started programming in 2022
 
 
 ## 🌐 Socials:
